@@ -1,5 +1,5 @@
 {
-	"name": "discord-app-template",
+	"name": "discord-bot-template",
 	"version": "1.0.0",
 	"description": "A template discord bot",
 	"main": "index.js",
