@@ -1,0 +1,17 @@
+{
+	"name": "discord-app-template",
+	"version": "1.0.0",
+	"description": "A template discord bot",
+	"main": "index.js",
+	"scripts": {
+		"server": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "Niyutoraru",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^12.3.1",
+		"dotenv": "^8.2.0",
+		"nodemon": "^2.0.4"
+	}
+}
