@@ -15,7 +15,7 @@ API_KEY=YOUR_API_KEY
 2. Create a new application
 3. Click on the `Bot` panel and add a Bot
 4. Copy your `CLIENT ID` from the `General Information` panel
-5. Go to `Discord Permission Calculator` and select desired permissions for your Bot 
+5. Go to `Discord Permission Calculator` site and select desired permissions for your Bot 
 6. Paste the copied ID into the `Client ID` text input and click on the `link` below (this will redirect you)
 7. Choose the server, where the Bot should be placed in and confirm
 8. Copy the token from the `Bot` panel into the `.env` file
